@@ -3,6 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,true
 type,Medium,true
+item_size,Size,
 description,Description,
 subject,Subjects,true
 location,Location,true
