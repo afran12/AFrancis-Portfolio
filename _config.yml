@@ -20,12 +20,12 @@ source-code: https://afran12.github.io/AFrancis-Portfolio/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: AFrancis Portfolio
+title: A Traveling Artist
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of amateur artwork by AFrancis
+tagline: A portfolio of amateur artwork by Aftan Francis
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection displays ten years of artwork by Aftan Francis during her time in Japan, Western Samoa, and Pennsylvania (2006-2016). The collection includes ceramic pieces, oil and ink paintings, drawings, and photo manipulation."
+description: "This collection displays artwork created by Aftan Francis during her time in Japan, Western Samoa, and Pennsylvania from 2006 to 2016. Media includes ceramic pieces, oil and ink paintings, drawings, and photo manipulation and showcases Aftan's love of portraiture."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: afran12
 
