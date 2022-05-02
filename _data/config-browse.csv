@@ -3,4 +3,4 @@ date,,,,Date
 type,,,,Type
 item_size,,,,Physical size
 subject,,true
-location,,true
+location,Location,true,,Location
