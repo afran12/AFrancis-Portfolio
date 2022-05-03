@@ -1,5 +1,10 @@
 field,display_name
 title,Title
+creator,Creator
 date,Date
+type,Medium
 description,Description
+item_size,Size
+location,Location
+format,File Type
 subject,Subjects
