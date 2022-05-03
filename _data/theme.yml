@@ -81,7 +81,7 @@ bootswatch: litera # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1em
-text-color: "#191919"
-link-color: "#17a2b8"
-base-font-family: Georgia # comment out for bootstrap defaults. e.g. Roboto
+text-color: "#0d0f14"
+link-color: "#4181f0"
+base-font-family: Georgia; # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: <link href="https://fonts.googleapis.com/css?family=Georgia&display=swap" rel="stylesheet"> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
