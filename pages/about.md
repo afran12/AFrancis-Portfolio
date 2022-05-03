@@ -15,7 +15,7 @@ credits: true
 ## About the Artist
 Aftan Francis makes art and she travels. Put 'em together, and you get this page.
 Aftan began making art at a young age, but didn't discover her love of faces until her second year at Messiah University. She considers herself fortunate to have had opportunities to travel as a teacher and Peace Corps volunteer and loves learning about new cultures and their art styles.
-{% include feature/image.html objectid="pen05" width="10" %}
+{% include feature/image.html objectid="pen05" width="50" %}
 
 ## About the Collection
 
