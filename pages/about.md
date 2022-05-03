@@ -10,7 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Artist;About the Collection;About the About Page" %}
+
+## About the Artist
+Aftan Francis makes art, and she travels. Put 'em together, and you get this page.
+(% include feature/item-figure.html objectid="pen05" width="25" %)
 
 ## About the Collection
 
