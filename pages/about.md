@@ -14,7 +14,7 @@ credits: true
 
 ## About the Artist
 Aftan Francis makes art, and she travels. Put 'em together, and you get this page.
-(% include feature/item-figure.html objectid="pen05" width="25" %)
+{% include feature/image.html objectid="pen05" width="25" %}
 
 ## About the Collection
 
