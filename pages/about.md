@@ -10,11 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Artist;About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Artist;About the Collection;" %}
 
 ## About the Artist
-Aftan Francis makes art, and she travels. Put 'em together, and you get this page.
-{% include feature/image.html objectid="pen05" width="25" %}
+Aftan Francis makes art and she travels. Put 'em together, and you get this page.
+Aftan began making art at a young age, but didn't discover her love of faces until her second year at Messiah University. She considers herself fortunate to have had opportunities to travel as a teacher and Peace Corps volunteer and loves learning about new cultures and their art styles.
+{% include feature/image.html objectid="pen05" width="10" %}
 
 ## About the Collection
 
@@ -26,6 +27,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
