@@ -80,7 +80,7 @@ navbar-background: bg-primary
 bootswatch: litera # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
-base-font-size: 1em
+base-font-size: 3em
 text-color: "#0d0f14"
 link-color: "#4181f0"
 base-font-family: Georgia; # comment out for bootstrap defaults. e.g. Roboto
