@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="ink07" %}
 
-{% include feature/nav-menu.html sections="About the Artist;Rights Statement" %}
+{% include feature/nav-menu.html sections="About the Artist;Rights Statement & Sharing" %}
 
 ## About the Artist
 Aftan Francis makes art and she travels. Put 'em together, and you get this page.
