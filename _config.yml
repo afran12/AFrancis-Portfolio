@@ -25,7 +25,7 @@ title: Traveling Artist
 tagline: A portfolio of amateur artwork by Aftan Francis
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of artwork created over ten years while traveling in Japan, Western Samoa, and the United States. Pieces include ceramics, oil and ink paintings, drawings, and altered photographs. Artwork and repository created by Aftan Francis."
+description: "A collection of artwork created over ten years while traveling in Japan, Western Samoa, and the United States. Pieces include ceramics, ink paintings, and drawings. Artwork and repository created by Aftan Francis."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: afran12
 
@@ -61,7 +61,7 @@ metadata: AFrancis
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+noindex: false
 
 ##########
 # BUILD SETTINGS 
